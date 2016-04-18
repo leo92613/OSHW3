@@ -1,0 +1,121 @@
+
+The process requires pages: 10
+F Value: 0.1
+PFF happens: 6
+The Resident size is 3
+
+The process requires pages: 10
+F Value: 0.2
+PFF happens: 6
+The Resident size is 3
+
+The process requires pages: 10
+F Value: 0.5
+PFF happens: 6
+The Resident size is 3
+
+The process requires pages: 50
+F Value: 0.5
+PFF happens: 44
+The Resident size is 3
+
+The process requires pages: 50
+F Value: 1
+PFF happens: 44
+The Resident size is 3
+
+The process requires pages: 50
+F Value: 2.5
+PFF happens: 3
+The Resident size is 24
+
+The process requires pages: 100
+F Value: 1
+PFF happens: 99
+The Resident size is 2
+
+The process requires pages: 100
+F Value: 2
+PFF happens: 11
+The Resident size is 24
+
+The process requires pages: 100
+F Value: 5
+PFF happens: 2
+The Resident size is 56
+
+The process requires pages: 500
+F Value: 5
+PFF happens: 2
+The Resident size is 248
+
+The process requires pages: 500
+F Value: 10
+PFF happens: 2
+The Resident size is 263
+
+The process requires pages: 500
+F Value: 25
+PFF happens: 0
+The Resident size is 288
+
+The process requires pages: 1000
+F Value: 10
+PFF happens: 1
+The Resident size is 571
+
+The process requires pages: 1000
+F Value: 20
+PFF happens: 0
+The Resident size is 571
+
+The process requires pages: 1000
+F Value: 50
+PFF happens: 0
+The Resident size is 571
+
+The process requires pages: 5000
+F Value: 50
+PFF happens: 0
+The Resident size is 2852
+
+The process requires pages: 5000
+F Value: 100
+PFF happens: 0
+The Resident size is 2852
+
+The process requires pages: 5000
+F Value: 250
+PFF happens: 0
+The Resident size is 2852
+
+The process requires pages: 10000
+F Value: 100
+PFF happens: 0
+The Resident size is 5737
+
+The process requires pages: 10000
+F Value: 200
+PFF happens: 0
+The Resident size is 5737
+
+The process requires pages: 10000
+F Value: 500
+PFF happens: 0
+The Resident size is 5737
+
+The process requires pages: 20000
+F Value: 200
+PFF happens: 0
+The Resident size is 11397
+
+The process requires pages: 20000
+F Value: 400
+PFF happens: 0
+The Resident size is 11397
+
+The process requires pages: 20000
+F Value: 1000
+PFF happens: 0
+The Resident size is 11397
+

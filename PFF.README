@@ -1,0 +1,13 @@
+In PFF implementation, I thought the F Value should be related to the size of the pages the process occupies.
+
+But the result of the first group experients (Result_1_PFF.txt) disapproves this assumption.
+
+When the size is relatively small, PFF happens fewer as the F value grows. However, when the size is relatively large, the times PFF happens is not related to the size. In my case, the PFF doesn't happen at all and the resident set size is extremely large.
+
+Then the second assumption is that F value should be a fixed number.
+
+As is shown in the Result_2_PFF.txt, as F value grows , the resident set size will increase, which burdens the memmory and the times the PFF runs will decrease, which benefits the CPU.
+
+From the results, the F value is better be set from 5 to 15.
+
+However, I think in reality, the process.file is way different than randomized array of number. Thus I think the best solution is to set F as dynamic changing with the current state of memory and CPU and the context of process.

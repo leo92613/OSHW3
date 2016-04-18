@@ -1,0 +1,564 @@
+The process requires pages: 10
+F Value: 5
+PFF happens: 0
+The Max Resident size: 6
+The Min Resident size: 0
+The Page fault happens: 6
+
+The process requires pages: 10
+F Value: 10
+PFF happens: 0
+The Max Resident size: 6
+The Min Resident size: 0
+The Page fault happens: 6
+
+The process requires pages: 10
+F Value: 13
+PFF happens: 0
+The Max Resident size: 6
+The Min Resident size: 0
+The Page fault happens: 6
+
+The process requires pages: 10
+F Value: 15
+PFF happens: 0
+The Max Resident size: 6
+The Min Resident size: 0
+The Page fault happens: 6
+
+The process requires pages: 10
+F Value: 18
+PFF happens: 0
+The Max Resident size: 6
+The Min Resident size: 0
+The Page fault happens: 6
+
+The process requires pages: 10
+F Value: 20
+PFF happens: 0
+The Max Resident size: 6
+The Min Resident size: 0
+The Page fault happens: 6
+
+The process requires pages: 10
+F Value: 23
+PFF happens: 0
+The Max Resident size: 6
+The Min Resident size: 0
+The Page fault happens: 6
+
+The process requires pages: 10
+F Value: 25
+PFF happens: 0
+The Max Resident size: 6
+The Min Resident size: 0
+The Page fault happens: 6
+
+The process requires pages: 10
+F Value: 28
+PFF happens: 0
+The Max Resident size: 6
+The Min Resident size: 0
+The Page fault happens: 6
+
+The process requires pages: 10
+F Value: 30
+PFF happens: 0
+The Max Resident size: 6
+The Min Resident size: 0
+The Page fault happens: 6
+
+The process requires pages: 50
+F Value: 5
+PFF happens: 2
+The Max Resident size: 25
+The Min Resident size: 11
+The Page fault happens: 30
+
+The process requires pages: 50
+F Value: 10
+PFF happens: 0
+The Max Resident size: 29
+The Min Resident size: 0
+The Page fault happens: 29
+
+The process requires pages: 50
+F Value: 13
+PFF happens: 0
+The Max Resident size: 29
+The Min Resident size: 0
+The Page fault happens: 29
+
+The process requires pages: 50
+F Value: 15
+PFF happens: 0
+The Max Resident size: 29
+The Min Resident size: 0
+The Page fault happens: 29
+
+The process requires pages: 50
+F Value: 18
+PFF happens: 0
+The Max Resident size: 29
+The Min Resident size: 0
+The Page fault happens: 29
+
+The process requires pages: 50
+F Value: 20
+PFF happens: 0
+The Max Resident size: 29
+The Min Resident size: 0
+The Page fault happens: 29
+
+The process requires pages: 50
+F Value: 23
+PFF happens: 0
+The Max Resident size: 29
+The Min Resident size: 0
+The Page fault happens: 29
+
+The process requires pages: 50
+F Value: 25
+PFF happens: 0
+The Max Resident size: 29
+The Min Resident size: 0
+The Page fault happens: 29
+
+The process requires pages: 50
+F Value: 28
+PFF happens: 0
+The Max Resident size: 29
+The Min Resident size: 0
+The Page fault happens: 29
+
+The process requires pages: 50
+F Value: 30
+PFF happens: 0
+The Max Resident size: 29
+The Min Resident size: 0
+The Page fault happens: 29
+
+The process requires pages: 100
+F Value: 5
+PFF happens: 2
+The Max Resident size: 56
+The Min Resident size: 33
+The Page fault happens: 62
+
+The process requires pages: 100
+F Value: 10
+PFF happens: 1
+The Max Resident size: 59
+The Min Resident size: 56
+The Page fault happens: 59
+
+The process requires pages: 100
+F Value: 13
+PFF happens: 0
+The Max Resident size: 59
+The Min Resident size: 0
+The Page fault happens: 59
+
+The process requires pages: 100
+F Value: 15
+PFF happens: 0
+The Max Resident size: 59
+The Min Resident size: 0
+The Page fault happens: 59
+
+The process requires pages: 100
+F Value: 18
+PFF happens: 0
+The Max Resident size: 59
+The Min Resident size: 0
+The Page fault happens: 59
+
+The process requires pages: 100
+F Value: 20
+PFF happens: 0
+The Max Resident size: 59
+The Min Resident size: 0
+The Page fault happens: 59
+
+The process requires pages: 100
+F Value: 23
+PFF happens: 0
+The Max Resident size: 59
+The Min Resident size: 0
+The Page fault happens: 59
+
+The process requires pages: 100
+F Value: 25
+PFF happens: 0
+The Max Resident size: 59
+The Min Resident size: 0
+The Page fault happens: 59
+
+The process requires pages: 100
+F Value: 28
+PFF happens: 0
+The Max Resident size: 59
+The Min Resident size: 0
+The Page fault happens: 59
+
+The process requires pages: 100
+F Value: 30
+PFF happens: 0
+The Max Resident size: 59
+The Min Resident size: 0
+The Page fault happens: 59
+
+The process requires pages: 500
+F Value: 5
+PFF happens: 2
+The Max Resident size: 248
+The Min Resident size: 118
+The Page fault happens: 317
+
+The process requires pages: 500
+F Value: 10
+PFF happens: 2
+The Max Resident size: 263
+The Min Resident size: 45
+The Page fault happens: 315
+
+The process requires pages: 500
+F Value: 13
+PFF happens: 1
+The Max Resident size: 288
+The Min Resident size: 263
+The Page fault happens: 288
+
+The process requires pages: 500
+F Value: 15
+PFF happens: 1
+The Max Resident size: 288
+The Min Resident size: 263
+The Page fault happens: 288
+
+The process requires pages: 500
+F Value: 18
+PFF happens: 0
+The Max Resident size: 288
+The Min Resident size: 0
+The Page fault happens: 288
+
+The process requires pages: 500
+F Value: 20
+PFF happens: 0
+The Max Resident size: 288
+The Min Resident size: 0
+The Page fault happens: 288
+
+The process requires pages: 500
+F Value: 23
+PFF happens: 0
+The Max Resident size: 288
+The Min Resident size: 0
+The Page fault happens: 288
+
+The process requires pages: 500
+F Value: 25
+PFF happens: 0
+The Max Resident size: 288
+The Min Resident size: 0
+The Page fault happens: 288
+
+The process requires pages: 500
+F Value: 28
+PFF happens: 0
+The Max Resident size: 288
+The Min Resident size: 0
+The Page fault happens: 288
+
+The process requires pages: 500
+F Value: 30
+PFF happens: 0
+The Max Resident size: 288
+The Min Resident size: 0
+The Page fault happens: 288
+
+The process requires pages: 1000
+F Value: 5
+PFF happens: 4
+The Max Resident size: 346
+The Min Resident size: 25
+The Page fault happens: 762
+
+The process requires pages: 1000
+F Value: 10
+PFF happens: 1
+The Max Resident size: 571
+The Min Resident size: 405
+The Page fault happens: 571
+
+The process requires pages: 1000
+F Value: 13
+PFF happens: 0
+The Max Resident size: 571
+The Min Resident size: 0
+The Page fault happens: 571
+
+The process requires pages: 1000
+F Value: 15
+PFF happens: 0
+The Max Resident size: 571
+The Min Resident size: 0
+The Page fault happens: 571
+
+The process requires pages: 1000
+F Value: 18
+PFF happens: 0
+The Max Resident size: 571
+The Min Resident size: 0
+The Page fault happens: 571
+
+The process requires pages: 1000
+F Value: 20
+PFF happens: 0
+The Max Resident size: 571
+The Min Resident size: 0
+The Page fault happens: 571
+
+The process requires pages: 1000
+F Value: 23
+PFF happens: 0
+The Max Resident size: 571
+The Min Resident size: 0
+The Page fault happens: 571
+
+The process requires pages: 1000
+F Value: 25
+PFF happens: 0
+The Max Resident size: 571
+The Min Resident size: 0
+The Page fault happens: 571
+
+The process requires pages: 1000
+F Value: 28
+PFF happens: 0
+The Max Resident size: 571
+The Min Resident size: 0
+The Page fault happens: 571
+
+The process requires pages: 1000
+F Value: 30
+PFF happens: 0
+The Max Resident size: 571
+The Min Resident size: 0
+The Page fault happens: 571
+
+The process requires pages: 5000
+F Value: 5
+PFF happens: 6
+The Max Resident size: 1291
+The Min Resident size: 70
+The Page fault happens: 4121
+
+The process requires pages: 5000
+F Value: 10
+PFF happens: 2
+The Max Resident size: 2213
+The Min Resident size: 237
+The Page fault happens: 3593
+
+The process requires pages: 5000
+F Value: 13
+PFF happens: 2
+The Max Resident size: 2735
+The Min Resident size: 456
+The Page fault happens: 3033
+
+The process requires pages: 5000
+F Value: 15
+PFF happens: 1
+The Max Resident size: 2852
+The Min Resident size: 2563
+The Page fault happens: 2852
+
+The process requires pages: 5000
+F Value: 18
+PFF happens: 0
+The Max Resident size: 2852
+The Min Resident size: 0
+The Page fault happens: 2852
+
+The process requires pages: 5000
+F Value: 20
+PFF happens: 0
+The Max Resident size: 2852
+The Min Resident size: 0
+The Page fault happens: 2852
+
+The process requires pages: 5000
+F Value: 23
+PFF happens: 0
+The Max Resident size: 2852
+The Min Resident size: 0
+The Page fault happens: 2852
+
+The process requires pages: 5000
+F Value: 25
+PFF happens: 0
+The Max Resident size: 2852
+The Min Resident size: 0
+The Page fault happens: 2852
+
+The process requires pages: 5000
+F Value: 28
+PFF happens: 0
+The Max Resident size: 2852
+The Min Resident size: 0
+The Page fault happens: 2852
+
+The process requires pages: 5000
+F Value: 30
+PFF happens: 0
+The Max Resident size: 2852
+The Min Resident size: 0
+The Page fault happens: 2852
+
+The process requires pages: 10000
+F Value: 5
+PFF happens: 9
+The Max Resident size: 2264
+The Min Resident size: 307
+The Page fault happens: 8403
+
+The process requires pages: 10000
+F Value: 10
+PFF happens: 2
+The Max Resident size: 4405
+The Min Resident size: 287
+The Page fault happens: 7198
+
+The process requires pages: 10000
+F Value: 13
+PFF happens: 2
+The Max Resident size: 5180
+The Min Resident size: 98
+The Page fault happens: 6667
+
+The process requires pages: 10000
+F Value: 15
+PFF happens: 2
+The Max Resident size: 5180
+The Min Resident size: 98
+The Page fault happens: 6667
+
+The process requires pages: 10000
+F Value: 18
+PFF happens: 2
+The Max Resident size: 5557
+The Min Resident size: 1021
+The Page fault happens: 6042
+
+The process requires pages: 10000
+F Value: 20
+PFF happens: 1
+The Max Resident size: 5737
+The Min Resident size: 5557
+The Page fault happens: 5737
+
+The process requires pages: 10000
+F Value: 23
+PFF happens: 0
+The Max Resident size: 5737
+The Min Resident size: 0
+The Page fault happens: 5737
+
+The process requires pages: 10000
+F Value: 25
+PFF happens: 0
+The Max Resident size: 5737
+The Min Resident size: 0
+The Page fault happens: 5737
+
+The process requires pages: 10000
+F Value: 28
+PFF happens: 0
+The Max Resident size: 5737
+The Min Resident size: 0
+The Page fault happens: 5737
+
+The process requires pages: 10000
+F Value: 30
+PFF happens: 0
+The Max Resident size: 5737
+The Min Resident size: 0
+The Page fault happens: 5737
+
+The process requires pages: 20000
+F Value: 5
+PFF happens: 10
+The Max Resident size: 4223
+The Min Resident size: 456
+The Page fault happens: 17281
+
+The process requires pages: 20000
+F Value: 10
+PFF happens: 4
+The Max Resident size: 8316
+The Min Resident size: 619
+The Page fault happens: 13957
+
+The process requires pages: 20000
+F Value: 13
+PFF happens: 2
+The Max Resident size: 10342
+The Min Resident size: 1611
+The Page fault happens: 12997
+
+The process requires pages: 20000
+F Value: 15
+PFF happens: 2
+The Max Resident size: 10734
+The Min Resident size: 684
+The Page fault happens: 12632
+
+The process requires pages: 20000
+F Value: 18
+PFF happens: 1
+The Max Resident size: 11397
+The Min Resident size: 11005
+The Page fault happens: 11397
+
+The process requires pages: 20000
+F Value: 20
+PFF happens: 1
+The Max Resident size: 11397
+The Min Resident size: 11005
+The Page fault happens: 11397
+
+The process requires pages: 20000
+F Value: 23
+PFF happens: 0
+The Max Resident size: 11397
+The Min Resident size: 0
+The Page fault happens: 11397
+
+The process requires pages: 20000
+F Value: 25
+PFF happens: 0
+The Max Resident size: 11397
+The Min Resident size: 0
+The Page fault happens: 11397
+
+The process requires pages: 20000
+F Value: 28
+PFF happens: 0
+The Max Resident size: 11397
+The Min Resident size: 0
+The Page fault happens: 11397
+
+The process requires pages: 20000
+F Value: 30
+PFF happens: 0
+The Max Resident size: 11397
+The Min Resident size: 0
+The Page fault happens: 11397
+
+
+
+
+
